@@ -1,4 +1,4 @@
-# <strong>Hey There! 👋 I'm Aamir</strong>
+# <strong>Hey There 👋 I'm Aamir</strong>
 
 ## About Me
 ---
@@ -38,8 +38,13 @@
 
 <br>
 
-## GitHub Stats:
+## 📫 Contact Me
 ---
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://youtube.com/@procodeofficial?si=xR7EA8wTMK6qyDT3" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:aamirhasan.main@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
