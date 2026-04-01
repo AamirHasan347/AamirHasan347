@@ -4,7 +4,7 @@
 ---
 <h3><strong>I'm a 16-year-old developer crafting robust web applications and exploring system architectures. Having written my first line of code at age 11, I combine five years of hands-on experience with an unyielding drive to build intuitive, high-performance digital experiences.</strong></h3>
 
-<br>
+
 
 ## 🧰 Languages and Tools
 ---
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
-<br>
+
 
 ## 📫 Contact Me
 ---
