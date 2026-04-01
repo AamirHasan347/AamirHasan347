@@ -38,5 +38,5 @@
 
 ### 📫 Let's Connect!
 
-- **YouTube:** Check out my web dev content on [proCode](#) *(https://youtube.com/@procodeofficial?si=xR7EA8wTMK6qyDT3)*.
-- **Email:** Drop me a line at your.email@example.com *(replace with your email)*.
+- **YouTube:** Check out my web dev content on [proCode](https://youtube.com/@procodeofficial?si=xR7EA8wTMK6qyDT3).
+- **Email:** Drop me a line at aamirhasan.main@gmail.com
